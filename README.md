@@ -1,13 +1,22 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=371f7a&height=120&section=header"/>
 
 <div align="center">
+
 <img src="https://raw.githubusercontent.com/bryan1993-HA/bryan1993-HA/main/logo.png" height="70" alt="Stackrio"/>
 <br/>
 <sub>Développeur web freelance · France</sub>
-</div>
+<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7B5EA7&center=true&vCenter=true&width=700&lines=WordPress+%C2%B7+WooCommerce+%C2%B7+Laravel+%C2%B7+API;Sites+vitrine+%C2%B7+Boutiques+%C2%B7+SaaS+%C2%B7+Plugins;Autodidacte+%26+passionn%C3%A9+depuis+plusieurs+ann%C3%A9es." alt="Typing" />
+<br/><br/>
 
+[![Disponible](https://img.shields.io/badge/🟢_Disponible_pour_un_projet-28a745?style=for-the-badge)](https://stackrio.fr/contact)
+[![Site](https://img.shields.io/badge/🌐_stackrio.fr-371f7a?style=for-the-badge)](https://stackrio.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/stackrio/)
+[![Email](https://img.shields.io/badge/dev@stackrio.fr-555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@stackrio.fr)
+[![Visites](https://komarev.com/ghpvc/?username=bryan1993-HA&color=371f7a&style=flat-square&label=Visites)](https://github.com/bryan1993-HA)
+
+</div>
 <br/>
 
 [![Disponible](https://img.shields.io/badge/🟢_Disponible_pour_un_projet-28a745?style=for-the-badge)](https://stackrio.fr/contact)
