@@ -16,23 +16,19 @@
 
 ---
 
-### ⚡ Projet phare
+### ⚡ Projet phare — [ElecTempo](https://github.com/bryan1993-HA/electempo)
 
-<a href="https://github.com/bryan1993-HA/electempo">
-  <img align="right" src="https://gh-card.dev/repos/bryan1993-HA/electempo.svg?fullname=1" />
-</a>
+> Intégration Home Assistant pour le contrat **EDF Tempo**
 
-Intégration Home Assistant pour le contrat **EDF Tempo** :
-- 🎨 3 couleurs × 2 périodes = **6 tarifs précis**
-- 📅 Jours restants par couleur (Bleu 300 / Blanc 43 / Rouge 22)
-- 🔌 Basculement automatique à 06h00
-- 📡 Sources : `api-couleur-tempo.fr` + `data.gouv.fr`
+- 🎨 3 couleurs × 2 périodes = **6 tarifs précis** (HC/HP × Bleu/Blanc/Rouge)
+- 📅 Jours restants par couleur (Bleu 300 / Blanc 43 / Rouge 22) avec reset auto
+- 🔌 Basculement automatique à 06h00 · plages HC configurables
+- 📡 Sources : `api-couleur-tempo.fr` + `data.gouv.fr` avec fallback intégré
 
 [![HACS](https://img.shields.io/badge/HACS-Custom-orange?style=flat-square)](https://github.com/hacs/integration)
-[![Release](https://img.shields.io/github/v/release/bryan1993-HA/electempo?style=flat-square&color=41BDF5)](https://github.com/bryan1993-HA/electempo/releases)
+[![Release](https://img.shields.io/github/v/release/bryan1993-HA/electempo?style=flat-square&color=41BDF5&label=release)](https://github.com/bryan1993-HA/electempo/releases)
 [![HA](https://img.shields.io/badge/HA-2024.1%2B-41BDF5?style=flat-square&logo=home-assistant)](https://www.home-assistant.io)
-
-<br clear="right"/>
+[![Stars](https://img.shields.io/github/stars/bryan1993-HA/electempo?style=flat-square&color=yellow)](https://github.com/bryan1993-HA/electempo/stargazers)
 
 ---
 
