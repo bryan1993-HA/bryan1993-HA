@@ -1,6 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=371f7a&height=140&section=header&text=Bryan%20%E2%80%94%20Stackrio&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=D%C3%A9veloppeur%20web%20freelance%20%C2%B7%20France&descAlignY=80&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=371f7a&height=120&section=header"/>
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/bryan1993-HA/bryan1993-HA/main/logo.png" height="70" alt="Stackrio"/>
+<br/>
+<sub>Développeur web freelance · France</sub>
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7B5EA7&center=true&vCenter=true&width=700&lines=WordPress+%C2%B7+WooCommerce+%C2%B7+Laravel+%C2%B7+API;Sites+vitrine+%C2%B7+Boutiques+%C2%B7+SaaS+%C2%B7+Plugins;Autodidacte+%26+passionn%C3%A9+depuis+plusieurs+ann%C3%A9es." alt="Typing" />
 
