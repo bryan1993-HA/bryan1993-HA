@@ -2,10 +2,6 @@
 
 <div align="center">
 
-[🇫🇷 Français](#fr) &nbsp;|&nbsp; [🇬🇧 English](#en)
-
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=WordPress+%C2%B7+WooCommerce+%C2%B7+Laravel+%C2%B7+API;Sites+vitrine+%C2%B7+Boutiques+%C2%B7+SaaS+%C2%B7+Plugins;Solutions+qui+durent%2C+livraisons+tenues." alt="Typing" />
 
 <br/>
@@ -18,20 +14,23 @@
 
 <br/>
 
-<a name="fr"></a>
+## 💼 Services — [stackrio.fr](https://stackrio.fr)
 
-## 🇫🇷 Services — [stackrio.fr](https://stackrio.fr)
+**🏗️ Créer / Build**
+&nbsp; Site vitrine · Boutique en ligne · Application web / SaaS (Laravel)
+&nbsp; *Showcase website · Online store · Web app / SaaS*
 
-**🏗️ Créer**
-&nbsp; Site vitrine &nbsp;·&nbsp; Boutique en ligne &nbsp;·&nbsp; Application web / SaaS (Laravel)
+**🔌 Enrichir / Extend**
+&nbsp; Plugin WordPress · Intégration & API · Back-office sur mesure
+&nbsp; *WordPress plugin · API integration · Custom back-office*
 
-**🔌 Enrichir**
-&nbsp; Plugin WordPress &nbsp;·&nbsp; Intégration & API &nbsp;·&nbsp; Back-office sur mesure
+**🔧 Améliorer / Improve**
+&nbsp; Maintenance · Audit & refonte · Formation WordPress
+&nbsp; *Maintenance · Audit & redesign · WordPress training*
 
-**🔧 Améliorer**
-&nbsp; Maintenance & évolution &nbsp;·&nbsp; Audit & refonte &nbsp;·&nbsp; Formation WordPress
-
-> 💬 **Indépendants · PME · Agences** — Un seul interlocuteur, réponse sous 24h &nbsp;·&nbsp; [Démarrer un projet →](https://stackrio.fr)
+> 💬 **Indépendants · PME · Agences / Freelancers · SMBs · Agencies**
+> Un seul interlocuteur, réponse sous 24h · One point of contact, reply within 24h
+> [Démarrer un projet / Start a project →](https://stackrio.fr)
 
 <br/>
 
@@ -71,30 +70,13 @@ Bot Discord de surveillance imprimante 3D
 <img src="https://streak-stats.demolab.com?user=bryan1993-HA&locale=fr&theme=dark&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&dates=888888" />
 </div>
 
-<br/><br/>
-
-<a name="en"></a>
-
-## 🇬🇧 Services — [stackrio.fr](https://stackrio.fr)
-
-**🏗️ Build**
-&nbsp; Showcase website &nbsp;·&nbsp; Online store &nbsp;·&nbsp; Web app / SaaS (Laravel)
-
-**🔌 Extend**
-&nbsp; WordPress plugin &nbsp;·&nbsp; API integration &nbsp;·&nbsp; Custom back-office
-
-**🔧 Improve**
-&nbsp; Maintenance &nbsp;·&nbsp; Audit & redesign &nbsp;·&nbsp; WordPress training
-
-> 💬 **Freelancers · SMBs · Agencies** — One point of contact, reply within 24h &nbsp;·&nbsp; [Start a project →](https://stackrio.fr)
-
 <br/>
 
 <div align="center">
 
-[![Démarrer un projet](https://img.shields.io/badge/💬_Start_a_project-6C63FF?style=for-the-badge)](https://stackrio.fr)
+[![Démarrer un projet](https://img.shields.io/badge/💬_Démarrer_un_projet_/_Start_a_project-6C63FF?style=for-the-badge)](https://stackrio.fr)
 
-*Reply within 24h · No commitment*
+*Réponse sous 24h · Sans engagement · Reply within 24h · No commitment*
 
 </div>
 
