@@ -19,7 +19,7 @@
 ### ⚡ Projet phare
 
 <a href="https://github.com/bryan1993-HA/electempo">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=bryan1993-HA&repo=electempo&theme=dark&hide_border=true&bg_color=0d1117&title_color=41BDF5&icon_color=41BDF5" />
+  <img align="right" src="https://gh-card.dev/repos/bryan1993-HA/electempo.svg?fullname=1" />
 </a>
 
 Intégration Home Assistant pour le contrat **EDF Tempo** :
