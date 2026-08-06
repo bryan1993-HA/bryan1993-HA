@@ -37,12 +37,11 @@
 ## 🧰 Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=php,laravel,wordpress,js,ts,python,mysql,git,github&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=php,laravel,wordpress,js,ts,python,mysql,discord,git,github&theme=dark&perline=10" />
 <br/><br/>
-<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
-<img src="https://img.shields.io/badge/Discord_Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-<img src="https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Home_Assistant-41BDF5?style=flat&logo=home-assistant&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/REST_API-FF6B35?style=flat&logo=fastapi&logoColor=white" />
 </div>
 
 <br/>
