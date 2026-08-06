@@ -58,8 +58,11 @@ Intégration Home Assistant pour le contrat **EDF Tempo** :
 ### 📊 Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bryan1993-HA&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true&icon_color=41BDF5&title_color=41BDF5" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan1993-HA&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=41BDF5" height="160"/>
+
+<img src="https://streak-stats.demolab.com?user=bryan1993-HA&theme=dark&hide_border=true&background=0d1117&ring=41BDF5&fire=41BDF5&currStreakLabel=41BDF5" height="160"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bryan1993-HA&theme=react-dark&hide_border=true&bg_color=0d1117&color=41BDF5&line=41BDF5&point=ffffff&area=true" width="100%"/>
+
 </div>
 
 <div align="center">
