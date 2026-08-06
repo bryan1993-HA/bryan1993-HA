@@ -41,9 +41,9 @@
 | Site | Description |
 |------|-------------|
 | [stackrio.fr](https://stackrio.fr) | Site vitrine + SaaS · Stackrio |
-| [educopet.com](https://educopet.com) | Site éducatif WordPress |
-| [catslovekb.fr](https://www.catslovekb.fr) | Boutique e-commerce WooCommerce |
-| [SumUp × WooCommerce](https://github.com/bryan1993-HA/sumup-integration-woocommerce) | Plugin WordPress paiement SumUp |
+| [educopet.com](https://educopet.com) | Éducation canine — WordPress sur mesure, SEO, blog de conseils |
+| [catslovekb.fr](https://www.catslovekb.fr) | Association féline — WordPress adapté au budget associatif |
+| [SumUp × WooCommerce](https://github.com/bryan1993-HA/sumup-integration-woocommerce) | Plugin WordPress — intégration paiement SumUp |
 
 <br/>
 
