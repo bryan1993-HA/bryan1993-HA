@@ -55,20 +55,15 @@ Intégration Home Assistant pour le contrat **EDF Tempo** :
 
 ---
 
-### 📊 Stats
+### 📊 Contributions
+
+> *591 contributions cette année — graphe disponible sur le profil ci-dessous.*
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=bryan1993-HA&theme=dark&hide_border=true&background=0d1117&ring=41BDF5&fire=41BDF5&currStreakLabel=41BDF5" height="160"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bryan1993-HA&theme=react-dark&hide_border=true&bg_color=0d1117&color=41BDF5&line=41BDF5&point=ffffff&area=true" width="100%"/>
+[![ElecTempo sur HACS](https://img.shields.io/badge/⚡_ElecTempo-Disponible_sur_HACS-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)](https://github.com/bryan1993-HA/electempo)
 
 </div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=bryan1993-HA&theme=dark&hide_border=true&background=0d1117&ring=41BDF5&fire=41BDF5&currStreakLabel=41BDF5" height="160"/>
-</div>
-
 ---
 
 <div align="center">
