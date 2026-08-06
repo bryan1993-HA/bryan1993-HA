@@ -75,9 +75,6 @@ Add-on & intégration domotique Home Assistant
 **[🍳 KitchenStock](https://github.com/bryan1993-HA/kitchenstock)** &nbsp;·&nbsp; `TypeScript`
 Application de gestion de stock cuisine
 
-**[🤖 Wanhao Sentinel](https://github.com/bryan1993-HA/Wanhao-Sentinel-V2)** &nbsp;·&nbsp; `JavaScript`
-Bot Discord de surveillance imprimante 3D
-
 <br/>
 
 ## 📊 Activité
