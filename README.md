@@ -14,7 +14,7 @@
 [![Site](https://img.shields.io/badge/🌐_stackrio.fr-371f7a?style=for-the-badge)](https://stackrio.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/stackrio/)
 [![Email](https://img.shields.io/badge/dev@stackrio.fr-555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@stackrio.fr)
-[![Visites](https://komarev.com/ghpvc/?username=bryan1993-HA&color=371f7a&style=flat-square&label=Visites)](https://github.com/bryan1993-HA)
+[![Visites](https://komarev.com/ghpvc/?username=bryan1993-HA&color371f7a&style=for-the-badge&label=Visites)](https://github.com/bryan1993-HA)
 
 </div>
 
