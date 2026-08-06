@@ -2,7 +2,7 @@
 
 <div align="center">
 
-🇫🇷 [Français](#-services--stackriofr) &nbsp;|&nbsp; 🇬🇧 [English](#-services--stackriofr-1)
+[🇫🇷 Français](#fr) &nbsp;|&nbsp; [🇬🇧 English](#en)
 
 <br/>
 
@@ -17,6 +17,8 @@
 </div>
 
 <br/>
+
+<a name="fr"></a>
 
 ## 🇫🇷 Services — [stackrio.fr](https://stackrio.fr)
 
@@ -38,10 +40,10 @@
 <div align="center">
 <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,js,ts,python,mysql,git,github&theme=dark&perline=9" />
 <br/><br/>
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord_Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white)
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
+<img src="https://img.shields.io/badge/Discord_Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white" />
 </div>
 
 <br/>
@@ -69,9 +71,9 @@ Bot Discord de surveillance imprimante 3D
 <img src="https://streak-stats.demolab.com?user=bryan1993-HA&locale=fr&theme=dark&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&dates=888888" />
 </div>
 
-<br/>
+<br/><br/>
 
----
+<a name="en"></a>
 
 ## 🇬🇧 Services — [stackrio.fr](https://stackrio.fr)
 
@@ -90,9 +92,9 @@ Bot Discord de surveillance imprimante 3D
 
 <div align="center">
 
-[![Démarrer un projet](https://img.shields.io/badge/💬_Démarrer_un_projet-6C63FF?style=for-the-badge)](https://stackrio.fr)
+[![Démarrer un projet](https://img.shields.io/badge/💬_Start_a_project-6C63FF?style=for-the-badge)](https://stackrio.fr)
 
-*Réponse sous 24h · Sans engagement*
+*Reply within 24h · No commitment*
 
 </div>
 
