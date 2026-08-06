@@ -54,21 +54,11 @@ Intégration Home Assistant pour le contrat **EDF Tempo** :
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
 ---
-
 ### 📊 Contributions
 
 > *591 contributions cette année — graphe disponible sur le profil ci-dessous.*
 
 <div align="center">
-
-[![ElecTempo sur HACS](https://img.shields.io/badge/⚡_ElecTempo-Disponible_sur_HACS-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)](https://github.com/bryan1993-HA/electempo)
-
-</div>
----
-
-<div align="center">
-
-*Fait avec ❤️ pour la communauté Home Assistant française*
 
 [![ElecTempo sur HACS](https://img.shields.io/badge/⚡_ElecTempo-Disponible_sur_HACS-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)](https://github.com/bryan1993-HA/electempo)
 
