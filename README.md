@@ -2,135 +2,95 @@
 
 <div align="center">
 
+🇫🇷 [Français](#-services--stackriofr) &nbsp;|&nbsp; 🇬🇧 [English](#-services--stackriofr-1)
+
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=WordPress+%C2%B7+WooCommerce+%C2%B7+Laravel+%C2%B7+API;Sites+vitrine+%C2%B7+Boutiques+%C2%B7+SaaS+%C2%B7+Plugins;Solutions+qui+durent%2C+livraisons+tenues." alt="Typing" />
 
 <br/>
 
 [![Site](https://img.shields.io/badge/🌐_stackrio.fr-6C63FF?style=for-the-badge)](https://stackrio.fr)
-[![Téléphone](https://img.shields.io/badge/📞_07_59_94_09_92-555?style=for-the-badge)](https://stackrio.fr)
-[![Visits](https://komarev.com/ghpvc/?username=bryan1993-HA&color=6C63FF&style=flat-square&label=Visites)](https://github.com/bryan1993-HA)
+[![Contact](https://img.shields.io/badge/📞_07_59_94_09_92-555?style=for-the-badge)](https://stackrio.fr)
+[![Visites](https://komarev.com/ghpvc/?username=bryan1993-HA&color=6C63FF&style=flat-square&label=Visites)](https://github.com/bryan1993-HA)
 
 </div>
 
 <br/>
 
-## 💼 Services — [stackrio.fr](https://stackrio.fr)
-
-<table>
-<tr>
-<td width="33%" valign="top">
+## 🇫🇷 Services — [stackrio.fr](https://stackrio.fr)
 
 **🏗️ Créer**
-- Site vitrine
-- Boutique en ligne
-- Application web / SaaS
-
-</td>
-<td width="33%" valign="top">
+&nbsp; Site vitrine &nbsp;·&nbsp; Boutique en ligne &nbsp;·&nbsp; Application web / SaaS (Laravel)
 
 **🔌 Enrichir**
-- Plugin WordPress
-- Intégration & API
-- Back-office sur mesure
-
-</td>
-<td width="33%" valign="top">
+&nbsp; Plugin WordPress &nbsp;·&nbsp; Intégration & API &nbsp;·&nbsp; Back-office sur mesure
 
 **🔧 Améliorer**
-- Maintenance & évolution
-- Audit & refonte
-- Formation WordPress
+&nbsp; Maintenance & évolution &nbsp;·&nbsp; Audit & refonte &nbsp;·&nbsp; Formation WordPress
 
-</td>
-</tr>
-</table>
+> 💬 **Indépendants · PME · Agences** — Un seul interlocuteur, réponse sous 24h &nbsp;·&nbsp; [Démarrer un projet →](https://stackrio.fr)
 
-> 💬 **Indépendants · PME · Agences** — Un seul interlocuteur, réponse sous 24h · [Parler de votre projet →](https://stackrio.fr)
-
----
+<br/>
 
 ## 🧰 Stack
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,js,ts,python,mysql,git,github&theme=dark&perline=9" />
-
-<br/>
-
+<br/><br/>
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord_Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white)
-
 </div>
 
----
+<br/>
 
 ## 🔓 Projets open source
 
-<table>
-<tr>
-<td width="50%">
-
-**[⚡ ElecTempo](https://github.com/bryan1993-HA/electempo)**
-
-Intégration Home Assistant pour l'**EDF Tempo**
-6 tarifs HC/HP précis · suivi saison · HACS
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+**[⚡ ElecTempo](https://github.com/bryan1993-HA/electempo)** &nbsp;·&nbsp; `Python`
+Intégration Home Assistant EDF Tempo — 6 tarifs HC/HP · suivi saison · HACS
 [![Release](https://img.shields.io/github/v/release/bryan1993-HA/electempo?style=flat-square&color=6C63FF)](https://github.com/bryan1993-HA/electempo/releases)
 
-</td>
-<td width="50%">
-
-**[🏡 Domovra](https://github.com/bryan1993-HA/domovra-integration)**
-
+**[🏡 Domovra](https://github.com/bryan1993-HA/domovra-integration)** &nbsp;·&nbsp; `Python / HTML`
 Add-on & intégration domotique Home Assistant
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td>
-
-**[🍳 KitchenStock](https://github.com/bryan1993-HA/kitchenstock)**
-
+**[🍳 KitchenStock](https://github.com/bryan1993-HA/kitchenstock)** &nbsp;·&nbsp; `TypeScript`
 Application de gestion de stock cuisine
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-</td>
-<td>
-
-**[🤖 Wanhao Sentinel](https://github.com/bryan1993-HA/Wanhao-Sentinel-V2)**
-
+**[🤖 Wanhao Sentinel](https://github.com/bryan1993-HA/Wanhao-Sentinel-V2)** &nbsp;·&nbsp; `JavaScript`
 Bot Discord de surveillance imprimante 3D
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</td>
-</tr>
-</table>
-
----
+<br/>
 
 ## 📊 Activité
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=bryan1993-HA&theme=dark&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
-
+<img src="https://streak-stats.demolab.com?user=bryan1993-HA&locale=fr&theme=dark&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&dates=888888" />
 </div>
+
+<br/>
 
 ---
 
+## 🇬🇧 Services — [stackrio.fr](https://stackrio.fr)
+
+**🏗️ Build**
+&nbsp; Showcase website &nbsp;·&nbsp; Online store &nbsp;·&nbsp; Web app / SaaS (Laravel)
+
+**🔌 Extend**
+&nbsp; WordPress plugin &nbsp;·&nbsp; API integration &nbsp;·&nbsp; Custom back-office
+
+**🔧 Improve**
+&nbsp; Maintenance &nbsp;·&nbsp; Audit & redesign &nbsp;·&nbsp; WordPress training
+
+> 💬 **Freelancers · SMBs · Agencies** — One point of contact, reply within 24h &nbsp;·&nbsp; [Start a project →](https://stackrio.fr)
+
+<br/>
+
 <div align="center">
 
-**Un projet en tête ?**
-
-[![Parler de votre projet](https://img.shields.io/badge/💬_Démarrer_un_projet-6C63FF?style=for-the-badge)](https://stackrio.fr)
+[![Démarrer un projet](https://img.shields.io/badge/💬_Démarrer_un_projet-6C63FF?style=for-the-badge)](https://stackrio.fr)
 
 *Réponse sous 24h · Sans engagement*
 
