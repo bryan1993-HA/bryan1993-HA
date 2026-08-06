@@ -47,7 +47,7 @@
 | [stackrio.fr](https://stackrio.fr) | Site vitrine + SaaS · Stackrio |
 | [educopet.com](https://educopet.com) | Éducation canine — WordPress sur mesure, SEO, blog de conseils |
 | [catslovekb.fr](https://www.catslovekb.fr) | Association féline — WordPress adapté au budget associatif |
-| [SumUp × WooCommerce](https://github.com/bryan1993-HA/sumup-integration-woocommerce) | Plugin WordPress — intégration paiement SumUp |
+| [SumUp × WooCommerce ↗](https://stackrio.fr/plugins/sumup-integration-woocommerce) | Plugin WordPress paiement SumUp · Licence commerciale |
 
 <br/>
 
